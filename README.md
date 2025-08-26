@@ -1,2 +1,3 @@
-# js-project-team-tribute
-This is the repo to use as your start for you very first project at Technigo.
+# js-project-team-pebble
+
+This is the forked repo from Team Pebble
